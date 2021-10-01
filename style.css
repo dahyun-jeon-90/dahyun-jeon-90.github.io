@@ -3,3 +3,7 @@ body::before {
   content: '';
   height: 55px;
 }
+
+#SummaryCarousel {
+  height: 300px;
+}
